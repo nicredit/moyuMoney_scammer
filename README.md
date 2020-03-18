@@ -1,6 +1,6 @@
 # moyuMoney_scammer
-Money scammer form in an online game
-骗子曝光台,魔域游戏骗子诈骗曝光台,骗子挂南墙长期列表 
+Money scammer form in an online game  
+骗子曝光台,魔域游戏骗子诈骗曝光台,骗子挂南墙长期列表  
 这里的魔域 仅指:发行商-网龙,开发商-天晴数码 网站为my.99.com 的网络游戏 
 
 即日起将维护一个表单,表单地址  https://github.com/nicredit/moyuMoney_scammer    
